@@ -1,6 +1,7 @@
 # ARC8-Synth-Hackaton-2022
 
 We present you ARC8, a virtual instrument made with Daisy Seed microcontroller at Hackaton 2022 edition.
+
 Team: 
 - Florin Mazilu: https://github.com/fmazilu
 - Bogdan Sfetcu: https://github.com/redblockx, https://bogdansf12.wixsite.com/fmuzix
